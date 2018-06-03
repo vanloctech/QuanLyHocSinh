@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://d4.violet.vn/uploads/blogs/blogs2/761464/mohinh1_500.jpg"></p>
 
 <p align="center">
 Project design by FrameWork Laravel and Bootstrap 3
