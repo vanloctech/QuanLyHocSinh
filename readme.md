@@ -1,4 +1,4 @@
-<p align="center"><img src="https://d4.violet.vn/uploads/blogs/blogs2/761464/mohinh1_500.jpg"></p>
+<p align="center"><img src="https://watchdogalarms.com.au/wp-content/uploads/2015/12/icon-school.png" width="128" height="128"></p>
 
 <p align="center">
 Project design by FrameWork Laravel and Bootstrap 3
