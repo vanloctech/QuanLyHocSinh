@@ -6,7 +6,7 @@ Project design by FrameWork Laravel and Bootstrap 3
 
 ## About QuanLyHocSinh
 
-Quản lý học sinh là đồ án môn "Phân tích thiết kế hệ thống thông tin" của nhóm Glasses (Lớp HTTT20016 - ĐH Công Nghệ Thông Tin (UIT)). Quản lý học sinh là phần mềm dùng cho các trường trung học phổ thông giúp quản lý các thông tin học sinh dể dàng hơn. Đồ án quản lý học sinh bao gồm các chức năng như sau:
+Quản lý học sinh là đồ án môn "Phân tích thiết kế hệ thống thông tin" của nhóm Glasses (Lớp IS201.I24 - ĐH Công Nghệ Thông Tin (UIT)). Quản lý học sinh là phần mềm dùng cho các trường trung học phổ thông giúp quản lý các thông tin học sinh dể dàng hơn. Đồ án quản lý học sinh bao gồm các chức năng như sau:
 
 - Quản lý tiếp nhận hồ sơ học sinh khi mới tuyển sinh.
 - Quản lý lập danh sách lớp cho từng năm học và từng lớp học.
@@ -16,9 +16,9 @@ Quản lý học sinh là đồ án môn "Phân tích thiết kế hệ thống 
 
 ## About Us
 
-Lộc Nguyễn - FB:<a href="http://fb.com/vanloctech" target="_blank">fb.com/vanloctech</a><br/>
-Đức Tùng - FB:<a href="http://fb.com/tung.nguyen.5076" target="_blank">fb.com/tung.nguyen.5076</a><br/>
-Ánh Tuyết - FB:<a href="http://fb.com/maria.anhtuyet.14" target="_blank">fb.com/maria.anhtuyet.14</a><br/>
+Lộc Nguyễn - <a href="http://fb.com/vanloctech" target="_blank">fb.com/vanloctech</a><br/>
+Đức Tùng - <a href="http://fb.com/tung.nguyen.5076" target="_blank">fb.com/tung.nguyen.5076</a><br/>
+Ánh Tuyết - <a href="http://fb.com/maria.anhtuyet.14" target="_blank">fb.com/maria.anhtuyet.14</a><br/>
 
 ## References
 
